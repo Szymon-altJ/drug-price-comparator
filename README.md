@@ -10,6 +10,6 @@ Prosty projekt w Pythonie, który porównuje ceny leków w różnych polskich ap
 
 ## Instalacja
 ```bash
-git clone https://github.com/twoj-login/drug-price-comparator.git
+git clone https://github.com/Szymon-altJn/drug-price-comparator.git
 cd drug-price-comparator
 pip install -r requirements.txt

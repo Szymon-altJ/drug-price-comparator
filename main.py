@@ -1,5 +1,5 @@
 import pandas as pd
-from scrapery import scraper
+from scrapery.scraper import scraper
 from urllib.parse import quote
 
 def main(nazwa_leku: str):
